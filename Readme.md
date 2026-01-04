@@ -4,7 +4,9 @@
 ![AWS Lambda](https://img.shields.io/badge/Serverless-Python_Boto3-orange)
 ![Security](https://img.shields.io/badge/Standard-CIS_v6.0.0-blue)
 
-Đồ án môn học **NT542.Q11**: Xây dựng hệ thống **DevSecOps** tự động hóa giám sát (Audit) và tự động khắc phục (Auto-Remediate) các vi phạm bảo mật trên AWS theo tiêu chuẩn CIS Benchmark.
+**NT542.Q11**: Xây dựng hệ thống **DevSecOps** tự động hóa giám sát (Audit) và tự động khắc phục (Auto-Remediate) các vi phạm bảo mật trên AWS theo tiêu chuẩn CIS Benchmark.
+
+Đồ án môn học <img width="2292" height="1027" alt="Untitled diagram-2025-11-25-034314" src="https://github.com/user-attachments/assets/416326b2-f17c-4209-8b09-e4d142f3f56a" />
 
 ## 🚀 Cơ chế Hoạt động Chính
 
